@@ -1,0 +1,9 @@
+﻿  ws_request_parser.cpp
+  Main.cpp
+f:\技术项目\testssl\testssl\ws_framedata_parser.h(121): warning C4244: “+=”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+f:\技术项目\testssl\testssl\ws_framedata_sender.h(26): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned char”，可能丢失数据
+f:\技术项目\testssl\testssl\ws_framedata_sender.h(32): warning C4244: “参数”: 从“unsigned __int64”转换到“u_short”，可能丢失数据
+f:\技术项目\testssl\testssl\ws_framedata_sender.h(40): warning C4244: “参数”: 从“unsigned __int64”转换到“u_long”，可能丢失数据
+  正在生成代码...
+  TestSSL.vcxproj -> F:\技术项目\TestSSL\Debug\TestSSL.exe
+  TestSSL.vcxproj -> F:\技术项目\TestSSL\Debug\TestSSL.pdb (Full PDB)
